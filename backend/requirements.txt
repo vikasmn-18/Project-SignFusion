@@ -1,0 +1,7 @@
+flask
+flask-cors
+ultralytics
+Pillow
+numpy<2
+SpeechRecognition
+pydub
